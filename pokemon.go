@@ -12,7 +12,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/tompng/pokemon-go/canvas"
+	"github.com/AlekSi/pokemon-go/canvas"
 )
 
 var resourceDir string
